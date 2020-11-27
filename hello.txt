@@ -3,3 +3,5 @@ hello git
 hello spark
 hello scala
 hello hadoop! master test
+葵花宝典第一式
+欲练此功，必先自宫
